@@ -20,6 +20,7 @@
         <module>micro-common</module>
         <module>micro-user</module>
         <module>micro-order</module>
+        <module>micro-search</module>
     </modules>
 
     <properties>

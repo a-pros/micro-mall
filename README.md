@@ -6,8 +6,8 @@
 
 ## 项目文档
 
-- 文档地址：[https://macrozheng.github.io/mall-learning](https://macrozheng.github.io/mall-learning)
-- 备用地址：[https://macrozheng.gitee.io/mall-learning](https://macrozheng.gitee.io/mall-learning)
+- 文档地址：
+- 备用地址：
 
 ## 项目介绍
 

@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.micro</groupId>
-        <artifactId>mall</artifactId>
+        <artifactId>micro-mall</artifactId>
         <version>1.0-v</version>
         <relativePath>../</relativePath>
     </parent>
     <groupId>com.micro</groupId>
-    <artifactId>core</artifactId>
+    <artifactId>micro-core</artifactId>
     <version>1.0-v</version>
     <packaging>jar</packaging>
     <name>core</name>
@@ -22,7 +22,7 @@
     <dependencies>
         <dependency>
             <groupId>com.micro</groupId>
-            <artifactId>common</artifactId>
+            <artifactId>micro-common</artifactId>
             <version>1.0-v</version>
         </dependency>
 

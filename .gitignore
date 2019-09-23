@@ -27,5 +27,8 @@ target/
 /.nb-gradle/
 build/
 
+### Maven ###
+.idea/
+
 ### VS Code ###
 .vscode/

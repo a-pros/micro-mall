@@ -79,11 +79,9 @@ nprogress | 进度条控件 | [https://github.com/rstacruz/nprogress](https://gi
 
 ##### 系统架构图
 
-![系统架构图](document/resource/mall_system_arch.png)
 
 ##### 业务架构图
 
-![系统架构图](document/resource/mall_business_arch.png)
 
 #### 模块介绍
 

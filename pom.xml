@@ -21,6 +21,7 @@
         <module>micro-user</module>
         <module>micro-order</module>
         <module>micro-search</module>
+        <module>micro-pay</module>
     </modules>
 
     <properties>
